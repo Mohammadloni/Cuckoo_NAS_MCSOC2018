@@ -1,6 +1,6 @@
 # Designing a compact convolutional neural network for embedded stereo vision systems (MCSOC 2018)
 
-## Multi-Objective Neural Architecture Search_
+## Multi-Objective Neural Architecture Search
 
 The code of our paper was published at the MCSOC 2018 conference (Best Paper Award!).
 
